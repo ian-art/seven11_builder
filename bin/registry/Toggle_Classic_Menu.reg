@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\ToggleClassicMenu]
+"MUIVerb"="Toggle Classic Context Menu"
+"Icon"="imageres.dll,-5302"
+"Position"="Bottom"
+
+[HKEY_CLASSES_ROOT\DesktopBackground\Shell\ToggleClassicMenu\command]
+@="\"C:\\Windows\\System32\\ToggleClassicMenu.bat\""
