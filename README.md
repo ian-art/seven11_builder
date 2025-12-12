@@ -11,3 +11,12 @@ these four security vendors flagged this file (seven11.exe) as malicious because
 * DeepInstinct -	MALICIOUS
 * Microsoft -		PUA:Win32/Puwaders.C!ml
 * SecureAge -		Malicious
+
+these 6 security vendors flagged wimlib-imagex.exe as malicious. (wimlib is safe)
+
+* Avast - Other:Malware-gen [Trj]
+* AVG - Other:Malware-gen [Trj]
+* Avira (no cloud) - ADWARE/AVI.AdwareX.nbtpt
+* DeepInstinct - MALICIOUS
+* MaxSecure - Trojan.Malware.328990141.susgen
+* WithSecure - Adware.ADWARE/AVI.AdwareX.nbtpt
