@@ -7,7 +7,7 @@ drag and drop .iso, extracted folder of windows 11/10 iso, .wim/.wsd to the seve
 notes:
 these four security vendors flagged this file (seven11.exe) as malicious because i included disabling windows defender.
 
-* Bkav Pro		W64.AIDetectMalware
-* DeepInstinct	MALICIOUS
-* Microsoft		PUA:Win32/Puwaders.C!ml
-* SecureAge		Malicious
+* Bkav Pro -		W64.AIDetectMalware
+* DeepInstinct -	MALICIOUS
+* Microsoft -		PUA:Win32/Puwaders.C!ml
+* SecureAge -		Malicious
